@@ -64,6 +64,7 @@ int _putfd(char c, int fd)
 	return (1);
 }
 
+
 /**
  *_putsfd - prints an input string
  * @str: the string to be printed
